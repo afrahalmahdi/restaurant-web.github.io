@@ -1,0 +1,76 @@
+div.fourth{
+    border: 1px solid #f2f2f2;
+    padding: 80px;
+    padding-top: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    min-height: 1700px;
+    max-height: 1700px;
+    text-align:center;
+    margin-bottom: 60px;
+}
+h3{
+    font-family:'Dancing Script', cursive;
+    font-size: 70px;
+    font-style: italic;
+}
+#title-2{
+    border: 1px solid #ffb3b3;
+    padding: 10px;
+    margin-bottom: 0px;
+    font-size: 23px;
+    letter-spacing: 8px;
+}
+#from{
+    border: 1px solid #ffb3b3;
+    padding: 9px;
+    margin-top: 0px;
+    margin-bottom: 18px;
+    text-align: left;
+    font-size: 23px;
+    font-style: italic;
+}
+.ingredients-two{
+    border: 1px solid #ffb3b3;
+    text-align: left;
+    min-width: 500px;
+    max-width: 500px;
+    min-height: 848px;
+    max-height: 848px;
+    margin-right: 0px;
+    margin-bottom: 18px;
+    float: left;
+}
+#ingredients3{
+    padding-left: 25px;
+    font-size: 16px;
+    letter-spacing: 6px;
+}
+#sweet-potato{
+    display: inline-block;
+    /* float: right; */
+    border: 1px solid #ffb3b3;
+    padding: 8px;
+    margin-bottom: 18px;
+}
+.method-div-two{
+    border: 1px solid #ffb3b3;
+    text-align: left;
+    min-width: 675px;
+    max-width: 675px;
+    min-height: 500px;
+    max-height: 500px;
+    float: right;
+    margin-bottom: 13px;
+    padding-top: 0px;
+}
+#method-text3{
+    padding-left: 25px;
+    font-size: 17px;
+    letter-spacing: 6px;
+}
+.method-tip1{
+    word-spacing: 3px;
+}
+#afrah{
+    text-align: center;
+}
